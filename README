@@ -1,0 +1,18 @@
+The e-commerce project for the bakery is a full-stack web application developed using Spring Boot, JPA, JSP, Thymeleaf and MySQL. 
+The project aims to provide an online platform for customers to purchase bakery products. 
+
+The following are the key features of the project:
+Customer Module: This module allows customers to register, log in, and browse bakery products. Customers can add products to their cart, place orders, and make payments online.
+
+Admin Module: This module allows the bakery staff to manage the products, orders, and customers. The admin can add, edit, and delete products, view orders, and manage customer accounts.
+
+The project uses Spring Boot to create a RESTful API that communicates with the front-end. JPA is used to map the Java objects to the database tables, and MySQL is used as the database.
+The front-end of the project can be developed using React JS.The e-commerce project for the bakery is a full-stack web application developed using Spring Boot, JPA, JSP, Thymeleaf and MySQL. 
+The project aims to provide an online platform for customers to purchase bakery products.
+
+The following are the key features of the project: Customer Module: This module allows customers to register, log in, and browse bakery products.
+Customers can add products to their cart, place orders, and make payments online. Admin Module: This module allows the bakery staff to manage the products, orders, and customers. 
+The admin can add, edit, and delete products, view orders, and manage customer accounts.
+The project uses Spring Boot to create a RESTful API that communicates with the front-end.
+JPA is used to map the Java objects to the database tables, and MySQL is used as the database. The front-end of the project can be developed using React JS.
+Skills: Thymeleaf · MySQL · Spring Boot · jpa · JavaServer Pages (JSP)
